@@ -1,2 +1,2 @@
 👋Hello!
-Markdown work in progress.
+Profile is still WIP.
