@@ -6,7 +6,7 @@ My pronouns are he/him.
 
 #### Interests
 - 🎮 Video games, especially racing games.
-- 🍡 Anime & Japanese Culture.
+- 🍡 Anime, Japanese Culture, and Virtual YouTubers (VTubers).
 - 🔮 Virtual YouTubers.
 
 [Twitter](https://twitter.com/almahbubyanwar) | [Instagram](https://instagram.com/almahbubyanwar) | Website is still WIP.
