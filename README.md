@@ -9,4 +9,4 @@ My pronouns are he/him.
 - 🍡 Anime, Japanese Culture, and Virtual YouTubers (VTubers).
 - 🔮 Virtual YouTubers.
 
-[Twitter](https://twitter.com/almahbubyanwar) | [Instagram](https://instagram.com/almahbubyanwar) | Website is still WIP.
+[Instagram](https://instagram.com/almahbuby11) | Website is still WIP.
