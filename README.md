@@ -1,11 +1,11 @@
-# 👋Hello! I'm Buby.
-I'm a computer science student from Jakarta, Indonesia.
-My pronouns are he/him.
+# (^∇^)ノ hewwo! i'm buby :3
 
-#### Interests
-- 🎮 Video games, especially racing games.
-- 🍡 Anime.
-- 🎵 Music.
-- 🔮 Virtual YouTubers.
+i'm a computer science student from jakarta (.=^・ェ・^=)
 
-[Instagram](https://instagram.com/almahbuby11) | Website is still WIP.
+i like programming (especially webdev), graphic design (incl. ui/ux), and vtubers :3
+
+nyaaa-ice meeting you! (=^ェ^=)
+
+---
+
+languages/frameworks: D, JavaScript/TypeScript, React, Next.js 
