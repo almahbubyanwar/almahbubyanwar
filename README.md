@@ -1,11 +1,11 @@
-# (^∇^)ノ hewwo! i'm buby :3
+# (^∇^)ノ hello! i'm buby.
 
-i'm a computer science student from jakarta (.=^・ェ・^=)
+i'm a computer science student & software engineer from jakarta, indonesia (=^・ェ・^=)
 
-i like programming (especially webdev), graphic design (incl. ui/ux), and vtubers :3
+i like programming (especially webdev) and graphic design (incl. ui/ux, print, etc) :3
 
-nyaaa-ice meeting you! (=^ェ^=)
+nya-ice to meet you! (=^ェ^=)
 
 ---
 
-languages/frameworks: D, JavaScript/TypeScript, React, Next.js 
+languages/frameworks: C++, D, JavaScript/TypeScript, Kotlin, React, Next.js 
