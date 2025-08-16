@@ -1,10 +1,10 @@
-# (^∇^)ノ hello! i'm buby.
+# hello! i'm buby.
 
-i'm a computer science student & software engineer from jakarta, indonesia (=^・ェ・^=)
+i'm a software engineer and a computer science student from jakarta, indonesia.
 
-i like programming (especially webdev) and graphic design (incl. ui/ux, print, etc) :3
+i'm mainly interested in programming (especially webdev) and graphic design (including ui/ux, print, etc).
 
-nya-ice to meet you! (=^ェ^=)
+nice to meet you!
 
 ---
 
